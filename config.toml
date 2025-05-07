@@ -1,4 +1,4 @@
-baseURL = 'http://https://easy-tell.github.io/'
+baseURL = 'https://easy-tell.github.io/'
 languageCode = 'en-us'
 title = '俸天繁华'
 theme = 'console'
